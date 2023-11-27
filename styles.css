@@ -1,0 +1,20 @@
+#time{
+    border-radius: 60px;
+    font-size: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2000px;
+    
+    margin: 0;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
